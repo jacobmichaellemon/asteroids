@@ -8,4 +8,3 @@ If I were to continue working on this project, I think it would be cool to add:
 - ship customization
 - start menu -> difficulty, color settings
 - ship momementum
-- shots killed on asteroid impact
