@@ -12,3 +12,4 @@ game_state.jsonl
 .python-version
 pyproject.toml
 uv.lock
+.env
